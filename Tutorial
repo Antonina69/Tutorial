@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="uk">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WebStudio</title>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebStudio</title>
+  </head>
   <body>
     <header>
       <nav>
@@ -18,7 +18,8 @@
       <ul>
         <li>
           <a href="mailto:info@devstudio.com" target="_blank"
-            >info@devstudio.com</a>
+            >info@devstudio.com</a
+          >
         </li>
         <li>
           <a href="tel:+380961111111" target="_blank">+38 096 111 11 11</a>
@@ -157,4 +158,3 @@
     </footer>
   </body>
 </html>
-
